@@ -1,0 +1,9 @@
+DIFA FISABILILLAH 
+
+
+Google Colab :
+https://colab.research.google.com/drive/1wHzY-VAD4Kkmm_7MGkSNnZrUZO2sGnhc?usp=sharing
+
+
+Github : 
+https://github.com/difafisabill/Assignment_Python_Hacktiv8/blob/master/New%20York%20City%20property%20market/PYTN_Assgn_2__5___Difa_Fisabilillah_.ipynb
